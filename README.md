@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mchowisallright
 - 👀 I’m interested in best practices in documentation
-- 🌱 I’m currently learning to be an adullt
+- 🌱 I’m currently learning to be an adult
 - 💞️ I’m looking to collaborate on impactful projects, big and small
 - 📫 How to reach me ... you know how to find me
 
