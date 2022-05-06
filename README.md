@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mchowisallright
-- 👀 I’m interested in best practices in documentation
+- 👀 I’m interested in docs as code, storytelling, best practices in documentation
 - 💞️ I’m looking to collaborate on impactful projects, big and small
 
 <!---
